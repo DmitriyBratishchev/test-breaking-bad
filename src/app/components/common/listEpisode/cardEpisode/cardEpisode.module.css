@@ -1,0 +1,10 @@
+.countBlock {
+  width: 250px;
+  display: grid;
+  grid-template-columns: 35px minmax(30px, 1fr) 35px 2fr;
+}
+
+.cardTitle {
+  font-size: 18px;
+  font-weight: 600;
+}
